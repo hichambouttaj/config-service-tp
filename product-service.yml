@@ -4,5 +4,6 @@ spring:
   eureka:
     instance:
       hostname: localhost
+      prefer-ip-address: true
 
 me: bouttajhicham@ecommerce.com
